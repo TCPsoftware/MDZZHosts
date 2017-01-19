@@ -1,0 +1,38 @@
+# >>>>> ADBlock Hosts File <<<<< #
+# 
+# COPYRIGHT (C) 2016 - 2017 Elepover.
+# USING GNU-GPL 3.0 LICENSE.
+#
+# ============================== #
+#
+# ADBHosts Version 1.0.1.012
+# Last edited: 01/19/2017 10:34
+# Some rules are optional, delete SHARP char to active them.
+#
+
+#BAIDU
+0.0.0.0 hm.baidu.com
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 cpro.baidu.com
+0.0.0.0 eiv.baidu.com
+0.0.0.0 zhidao.baidu.com
+0.0.0.0 baike.baidu.com
+0.0.0.0 ubmcmm.baidustatic.com
+0.0.0.0 pos.baidu.com
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 wangmeng.baidu.com
+0.0.0.0 nuomi.baidu.com
+0.0.0.0 ad.baidu.com
+0.0.0.0 hpd.baidu.com
+#BDstatic special
+0.0.0.0 ss0.bdstatic.com
+0.0.0.0 s.bdstatic.com
+0.0.0.0 gss0.bdstatic.com
+# 360 / KS
+0.0.0.0 www.kingsoft.com
+0.0.0.0 kingsoft.com
+0.0.0.0 360.cn
+0.0.0.0 www.360.cn
+# Etc.
+0.0.0.0 data.bilibili.com
