@@ -1,11 +1,11 @@
-# >>>>> ADBlock Hosts File <<<<< #
+# >>>>> MDZZHosts File <<<<< #
 # 
 # COPYRIGHT (C) 2016 - 2017 Elepover.
-# USING GNU-GPL 3.0 LICENSE.
+# USING MIT License.
 #
 # ============================== #
 #
-# ADBHosts Version 1.0.1.012
+# MDZZHosts Version 1.0.1.012
 # Last edited: 01/19/2017 10:34
 # Some rules are optional, delete SHARP char to active them.
 #
@@ -25,10 +25,6 @@
 0.0.0.0 nuomi.baidu.com
 0.0.0.0 ad.baidu.com
 0.0.0.0 hpd.baidu.com
-#BDstatic special
-0.0.0.0 ss0.bdstatic.com
-0.0.0.0 s.bdstatic.com
-0.0.0.0 gss0.bdstatic.com
 # 360 / KS
 0.0.0.0 www.kingsoft.com
 0.0.0.0 kingsoft.com
