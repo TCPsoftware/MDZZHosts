@@ -11,24 +11,37 @@
 #
 
 #BAIDU
-0.0.0.0 hm.baidu.com
-#0.0.0.0 baidu.com
-#0.0.0.0 www.baidu.com
-0.0.0.0 cpro.baidu.com
-0.0.0.0 eiv.baidu.com
-#0.0.0.0 zhidao.baidu.com
-#0.0.0.0 baike.baidu.com
-0.0.0.0 ubmcmm.baidustatic.com
-0.0.0.0 pos.baidu.com
-0.0.0.0 cpro.baidustatic.com
-0.0.0.0 wangmeng.baidu.com
-0.0.0.0 nuomi.baidu.com
-0.0.0.0 ad.baidu.com
-0.0.0.0 hpd.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 ad.baidu.com
+127.0.0.1 hpd.baidu.com
+127.0.0.1 eiv.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 cbjs.baidu.com
+127.0.0.1 eclick.baidu.com
+127.0.0.1 wangmeng.baidu.com
+
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro2.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+
+127.0.0.1 bdstatic.cn
+127.0.0.1 bdstatic.com
+127.0.0.1 baidustatic.com
+
+127.0.0.1 pos.baidu.com
+127.0.0.1 wn.pos.baidu.com
+
+#127.0.0.1 baidu.com
+#127.0.0.1 www.baidu.com
+#127.0.0.1 nuomi.baidu.com
+#127.0.0.1 baike.baidu.com
+#127.0.0.1 zhidao.baidu.com
+
 # 360 / KS
-0.0.0.0 www.kingsoft.com
-0.0.0.0 kingsoft.com
-0.0.0.0 360.cn
-0.0.0.0 www.360.cn
+127.0.0.1 360.cn
+127.0.0.1 www.360.cn
+127.0.0.1 www.360.com
+127.0.0.1 kingsoft.com
+127.0.0.1 www.kingsoft.com
 # Etc.
-0.0.0.0 data.bilibili.com
+127.0.0.1 data.bilibili.com
